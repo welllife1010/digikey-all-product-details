@@ -1,0 +1,2584 @@
+{
+  "Products": [
+    {
+      "Description": {
+        "ProductDescription": "IC DSP FIXED-POINT 144BGA",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 296,
+        "Name": "Texas Instruments"
+      },
+      "ManufacturerProductNumber": "TMS320C5535AZAY10",
+      "UnitPrice": 6.31,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TMS320C5535AZAY10/12809148",
+      "DatasheetUrl": "https://www.ti.com/lit/ds/symlink/tms320c5532.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/873/296%7E4225125%7EZAY%7E144.JPG",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "296-TMS320C5535AZAY10-ND",
+          "PackageType": {
+            "Id": 17,
+            "Name": "Tray"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 6.31,
+              "TotalPrice": 6.31
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 5.7,
+              "TotalPrice": 57.0
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 5.4352,
+              "TotalPrice": 135.88
+            },
+            {
+              "BreakQuantity": 160,
+              "UnitPrice": 4.71925,
+              "TotalPrice": 755.08
+            },
+            {
+              "BreakQuantity": 320,
+              "UnitPrice": 4.50713,
+              "TotalPrice": 1442.2816
+            },
+            {
+              "BreakQuantity": 480,
+              "UnitPrice": 4.10944,
+              "TotalPrice": 1972.5312
+            },
+            {
+              "BreakQuantity": 960,
+              "UnitPrice": 3.57919,
+              "TotalPrice": 3436.0224
+            },
+            {
+              "BreakQuantity": 2400,
+              "UnitPrice": 3.44663,
+              "TotalPrice": 8271.912
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 296,
+            "Name": "Texas Instruments"
+          },
+          "QuantityAvailableforPackageType": 1716,
+          "MaxQuantityForDistribution": 0,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 0,
+          "DigiReelFee": 0.0
+        }
+      ],
+      "QuantityAvailable": 1716,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "347446",
+          "ValueText": "Fixed Point"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "800282",
+          "ValueText": "I2C, I2S, LCD, MMC/SD, SPI, UART, USB"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "68967",
+          "ValueText": "100MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "397467",
+          "ValueText": "ROM (128kB)"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "187343",
+          "ValueText": "320kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "61432",
+          "ValueText": "1.8V, 2.5V, 2.75V, 3.3V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "49328",
+          "ValueText": "1.30V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "67005",
+          "ValueText": "-10°C ~ 70°C (TC)"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "95598",
+          "ValueText": "144-LFBGA"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "460007",
+          "ValueText": "144-NFBGA (12x12)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 28596,
+        "Name": "TMS320"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "6",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 7079,
+        "Name": "TMS320C55x"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "3A991A2",
+        "HtsusCode": "8542.31.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "IC DSP CTRLR 64LFCSP",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 505,
+        "Name": "Analog Devices Inc."
+      },
+      "ManufacturerProductNumber": "ADSP-BF592KCPZ",
+      "UnitPrice": 10.96,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADSP-BF592KCPZ/2709324",
+      "DatasheetUrl": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADSP-BF592.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/5537/505%7ECP-64-4%7ECP%7E64-Top.jpg",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "505-ADSP-BF592KCPZ-ND",
+          "PackageType": {
+            "Id": 17,
+            "Name": "Tray"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 10.96,
+              "TotalPrice": 10.96
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 9.902,
+              "TotalPrice": 99.02
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 9.4416,
+              "TotalPrice": 236.04
+            },
+            {
+              "BreakQuantity": 80,
+              "UnitPrice": 8.198,
+              "TotalPrice": 655.84
+            },
+            {
+              "BreakQuantity": 230,
+              "UnitPrice": 7.82952,
+              "TotalPrice": 1800.7896
+            },
+            {
+              "BreakQuantity": 440,
+              "UnitPrice": 7.13868,
+              "TotalPrice": 3141.0192
+            },
+            {
+              "BreakQuantity": 945,
+              "UnitPrice": 6.21756,
+              "TotalPrice": 5875.5942
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 3543,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 0.0
+        }
+      ],
+      "QuantityAvailable": 3543,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "347446",
+          "ValueText": "Fixed Point"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "800281",
+          "ValueText": "I2C, I2S, IrDA, PPI, SPI, SPORT, UART"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "213330",
+          "ValueText": "400MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "397488",
+          "ValueText": "ROM (64kB)"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "261536",
+          "ValueText": "64kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "61442",
+          "ValueText": "1.8V, 2.5V, 3.3V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "48369",
+          "ValueText": "1.29V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "38985",
+          "ValueText": "0°C ~ 70°C (TA)"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "261847",
+          "ValueText": "64-VFQFN Exposed Pad, CSP"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "261597",
+          "ValueText": "64-LFCSP-VQ (9x9)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 85744,
+        "Name": "ADSP-BF592"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "10",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 7068,
+        "Name": "Blackfin®"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "3A991A2",
+        "HtsusCode": "8542.31.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "IC AUDIO PROC 2ADC/4DAC 48-LQFP",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 505,
+        "Name": "Analog Devices Inc."
+      },
+      "ManufacturerProductNumber": "ADAU1701JSTZ",
+      "UnitPrice": 12.96,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADAU1701JSTZ/1246074",
+      "DatasheetUrl": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1701.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/389/48-LQFP.jpg",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "505-ADAU1701JSTZ-ND",
+          "PackageType": {
+            "Id": 17,
+            "Name": "Tray"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 12.96,
+              "TotalPrice": 12.96
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 11.91,
+              "TotalPrice": 119.1
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 11.4164,
+              "TotalPrice": 285.41
+            },
+            {
+              "BreakQuantity": 80,
+              "UnitPrice": 10.05888,
+              "TotalPrice": 804.7104
+            },
+            {
+              "BreakQuantity": 230,
+              "UnitPrice": 9.56522,
+              "TotalPrice": 2200.0006
+            },
+            {
+              "BreakQuantity": 440,
+              "UnitPrice": 8.94809,
+              "TotalPrice": 3937.1596
+            },
+            {
+              "BreakQuantity": 945,
+              "UnitPrice": 8.20757,
+              "TotalPrice": 7756.15365
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": true,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 1539,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 0.0
+        }
+      ],
+      "QuantityAvailable": 1539,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "402716",
+          "ValueText": "Sigma"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "752314",
+          "ValueText": "I2C, SPI"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "238244",
+          "ValueText": "50MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "1",
+          "ValueText": "-"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "87132",
+          "ValueText": "12kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "173383",
+          "ValueText": "3.30V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "59829",
+          "ValueText": "1.80V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "38985",
+          "ValueText": "0°C ~ 70°C (TA)"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "225910",
+          "ValueText": "48-LQFP"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "225912",
+          "ValueText": "48-LQFP (7x7)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 49265,
+        "Name": "ADAU1701"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "20",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 14090,
+        "Name": "SigmaDSP®"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "EAR99",
+        "HtsusCode": "8542.31.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "32BIT SIGMADSP AUDIO 16K/48K",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 505,
+        "Name": "Analog Devices Inc."
+      },
+      "ManufacturerProductNumber": "ADAU1462WBCPZ150",
+      "UnitPrice": 14.13,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADAU1462WBCPZ150/7915229",
+      "DatasheetUrl": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1462-1466.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/1852/505%3BCP-72-6%3BCP%3B72.jpg",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "505-ADAU1462WBCPZ150-ND",
+          "PackageType": {
+            "Id": 17,
+            "Name": "Tray"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 14.13,
+              "TotalPrice": 14.13
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 12.982,
+              "TotalPrice": 129.82
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 12.4444,
+              "TotalPrice": 311.11
+            },
+            {
+              "BreakQuantity": 80,
+              "UnitPrice": 10.96438,
+              "TotalPrice": 877.1504
+            },
+            {
+              "BreakQuantity": 230,
+              "UnitPrice": 10.42622,
+              "TotalPrice": 2398.0306
+            },
+            {
+              "BreakQuantity": 440,
+              "UnitPrice": 9.75357,
+              "TotalPrice": 4291.5708
+            },
+            {
+              "BreakQuantity": 945,
+              "UnitPrice": 8.94638,
+              "TotalPrice": 8454.3291
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 873,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 0.0
+        }
+      ],
+      "QuantityAvailable": 873,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "402716",
+          "ValueText": "Sigma"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "752314",
+          "ValueText": "I2C, SPI"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "96189",
+          "ValueText": "147.456MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "397488",
+          "ValueText": "ROM (64kB)"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "118504",
+          "ValueText": "192kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "173383",
+          "ValueText": "3.30V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "46248",
+          "ValueText": "1.20V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "212437",
+          "ValueText": "-40°C ~ 105°C (TA)"
+        },
+        {
+          "ParameterId": 1977,
+          "ParameterText": "Grade",
+          "ParameterType": "String",
+          "ValueId": "316912",
+          "ValueText": "Automotive"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "275681",
+          "ValueText": "72-VFQFN Exposed Pad, CSP"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "275538",
+          "ValueText": "72-LFCSP-VQ (10x10)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 116316,
+        "Name": "ADAU1462"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "10",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 14090,
+        "Name": "SigmaDSP®"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "EAR99",
+        "HtsusCode": "8542.39.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "IC AUDIO PROCESSOR 72LFCSP",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 505,
+        "Name": "Analog Devices Inc."
+      },
+      "ManufacturerProductNumber": "ADAU1451WBCPZ-RL",
+      "UnitPrice": 14.91,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADAU1451WBCPZ-RL/4901179",
+      "DatasheetUrl": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/1852/505%3BCP-72-6%3BCP%3B72.jpg",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "ADAU1451WBCPZ-RLTR-ND",
+          "PackageType": {
+            "Id": 1,
+            "Name": "Tape & Reel (TR)"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 2000,
+              "UnitPrice": 9.08839,
+              "TotalPrice": 18176.78
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 2000,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 2000,
+          "StandardPackage": 2000,
+          "DigiReelFee": 0.0
+        },
+        {
+          "DigiKeyProductNumber": "ADAU1451WBCPZ-RLCT-ND",
+          "PackageType": {
+            "Id": 2,
+            "Name": "Cut Tape (CT)"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 14.91,
+              "TotalPrice": 14.91
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 13.704,
+              "TotalPrice": 137.04
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 13.1356,
+              "TotalPrice": 328.39
+            },
+            {
+              "BreakQuantity": 100,
+              "UnitPrice": 11.5735,
+              "TotalPrice": 1157.35
+            },
+            {
+              "BreakQuantity": 250,
+              "UnitPrice": 11.00548,
+              "TotalPrice": 2751.37
+            },
+            {
+              "BreakQuantity": 500,
+              "UnitPrice": 10.29544,
+              "TotalPrice": 5147.72
+            },
+            {
+              "BreakQuantity": 1000,
+              "UnitPrice": 9.4434,
+              "TotalPrice": 9443.4
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 4478,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 0.0
+        },
+        {
+          "DigiKeyProductNumber": "ADAU1451WBCPZ-RLDKR-ND",
+          "PackageType": {
+            "Id": 243,
+            "Name": "Digi-Reel®"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 14.91,
+              "TotalPrice": 14.91
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 13.704,
+              "TotalPrice": 137.04
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 13.1356,
+              "TotalPrice": 328.39
+            },
+            {
+              "BreakQuantity": 100,
+              "UnitPrice": 11.5735,
+              "TotalPrice": 1157.35
+            },
+            {
+              "BreakQuantity": 250,
+              "UnitPrice": 11.00548,
+              "TotalPrice": 2751.37
+            },
+            {
+              "BreakQuantity": 500,
+              "UnitPrice": 10.29544,
+              "TotalPrice": 5147.72
+            },
+            {
+              "BreakQuantity": 1000,
+              "UnitPrice": 9.4434,
+              "TotalPrice": 9443.4
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 4478,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 7.0
+        }
+      ],
+      "QuantityAvailable": 4478,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "402716",
+          "ValueText": "Sigma"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "752314",
+          "ValueText": "I2C, SPI"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "166968",
+          "ValueText": "294.912MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "397478",
+          "ValueText": "ROM (32kB)"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "261536",
+          "ValueText": "64kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "173383",
+          "ValueText": "3.30V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "46248",
+          "ValueText": "1.20V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "212437",
+          "ValueText": "-40°C ~ 105°C (TA)"
+        },
+        {
+          "ParameterId": 1977,
+          "ParameterText": "Grade",
+          "ParameterType": "String",
+          "ValueId": "316912",
+          "ValueText": "Automotive"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "275681",
+          "ValueText": "72-VFQFN Exposed Pad, CSP"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "275538",
+          "ValueText": "72-LFCSP-VQ (10x10)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 116314,
+        "Name": "ADAU1451"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "10",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 14090,
+        "Name": "SigmaDSP®"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "EAR99",
+        "HtsusCode": "8542.39.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "IC CCD SIGNAL PROCESSOR 88LFCSP",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 505,
+        "Name": "Analog Devices Inc."
+      },
+      "ManufacturerProductNumber": "ADSP-BF504BCPZ-4",
+      "UnitPrice": 17.73,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADSP-BF504BCPZ-4/2606716",
+      "DatasheetUrl": "https://www.analog.com/media/en/technical-documentation/data-sheets/adsp-bf504.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/4906/505%7ECP-88-5%7ECP%7E88.JPG",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "505-ADSP-BF504BCPZ-4-ND",
+          "PackageType": {
+            "Id": 17,
+            "Name": "Tray"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 17.73,
+              "TotalPrice": 17.73
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 16.296,
+              "TotalPrice": 162.96
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 15.6208,
+              "TotalPrice": 390.52
+            },
+            {
+              "BreakQuantity": 80,
+              "UnitPrice": 13.76313,
+              "TotalPrice": 1101.0504
+            },
+            {
+              "BreakQuantity": 230,
+              "UnitPrice": 13.08757,
+              "TotalPrice": 3010.1411
+            },
+            {
+              "BreakQuantity": 440,
+              "UnitPrice": 12.24323,
+              "TotalPrice": 5387.0212
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 261,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 0.0
+        }
+      ],
+      "QuantityAvailable": 261,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "347446",
+          "ValueText": "Fixed Point"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "800201",
+          "ValueText": "CAN, EBI/EMI, I2C, IrDA, PPI, SPI, SPORT, UART/USART"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "213330",
+          "ValueText": "400MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "345656",
+          "ValueText": "External"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "265318",
+          "ValueText": "68kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "61442",
+          "ValueText": "1.8V, 2.5V, 3.3V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "48369",
+          "ValueText": "1.29V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "212621",
+          "ValueText": "-40°C ~ 85°C (TA)"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "293240",
+          "ValueText": "88-VFQFN Exposed Pad, CSP"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "293159",
+          "ValueText": "88-LFCSP-VQ (12x12)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 83338,
+        "Name": "ADSP-BF504"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "39",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 7068,
+        "Name": "Blackfin®"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "3A991A2",
+        "HtsusCode": "8542.31.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "IC AUDIO PROCESSOR 72LFCSP",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 505,
+        "Name": "Analog Devices Inc."
+      },
+      "ManufacturerProductNumber": "ADAU1452WBCPZ-RL",
+      "UnitPrice": 18.18,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADAU1452WBCPZ-RL/4901180",
+      "DatasheetUrl": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/1852/505%3BCP-72-6%3BCP%3B72.jpg",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "ADAU1452WBCPZ-RLTR-ND",
+          "PackageType": {
+            "Id": 1,
+            "Name": "Tape & Reel (TR)"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 2000,
+              "UnitPrice": 11.0793,
+              "TotalPrice": 22158.6
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 0,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 2000,
+          "StandardPackage": 2000,
+          "DigiReelFee": 0.0
+        },
+        {
+          "DigiKeyProductNumber": "ADAU1452WBCPZ-RLCT-ND",
+          "PackageType": {
+            "Id": 2,
+            "Name": "Cut Tape (CT)"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 18.18,
+              "TotalPrice": 18.18
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 16.706,
+              "TotalPrice": 167.06
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 16.0132,
+              "TotalPrice": 400.33
+            },
+            {
+              "BreakQuantity": 100,
+              "UnitPrice": 14.1088,
+              "TotalPrice": 1410.88
+            },
+            {
+              "BreakQuantity": 250,
+              "UnitPrice": 13.41632,
+              "TotalPrice": 3354.08
+            },
+            {
+              "BreakQuantity": 500,
+              "UnitPrice": 12.55076,
+              "TotalPrice": 6275.38
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 2127,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 0.0
+        },
+        {
+          "DigiKeyProductNumber": "ADAU1452WBCPZ-RLDKR-ND",
+          "PackageType": {
+            "Id": 243,
+            "Name": "Digi-Reel®"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 18.18,
+              "TotalPrice": 18.18
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 16.706,
+              "TotalPrice": 167.06
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 16.0132,
+              "TotalPrice": 400.33
+            },
+            {
+              "BreakQuantity": 100,
+              "UnitPrice": 14.1088,
+              "TotalPrice": 1410.88
+            },
+            {
+              "BreakQuantity": 250,
+              "UnitPrice": 13.41632,
+              "TotalPrice": 3354.08
+            },
+            {
+              "BreakQuantity": 500,
+              "UnitPrice": 12.55076,
+              "TotalPrice": 6275.38
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 2127,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 7.0
+        }
+      ],
+      "QuantityAvailable": 2127,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "402716",
+          "ValueText": "Sigma"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "752314",
+          "ValueText": "I2C, SPI"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "166968",
+          "ValueText": "294.912MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "397478",
+          "ValueText": "ROM (32kB)"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "105814",
+          "ValueText": "160kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "173383",
+          "ValueText": "3.30V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "46248",
+          "ValueText": "1.20V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "212437",
+          "ValueText": "-40°C ~ 105°C (TA)"
+        },
+        {
+          "ParameterId": 1977,
+          "ParameterText": "Grade",
+          "ParameterType": "String",
+          "ValueId": "316912",
+          "ValueText": "Automotive"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "275681",
+          "ValueText": "72-VFQFN Exposed Pad, CSP"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "275538",
+          "ValueText": "72-LFCSP-VQ (10x10)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 116315,
+        "Name": "ADAU1452"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "10",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 14090,
+        "Name": "SigmaDSP®"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "EAR99",
+        "HtsusCode": "8542.39.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "IC SIGMADSP 175MHZ 100LQFP",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 505,
+        "Name": "Analog Devices Inc."
+      },
+      "ManufacturerProductNumber": "ADAU1446YSTZ-3A",
+      "UnitPrice": 19.6,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADAU1446YSTZ-3A/2077082",
+      "DatasheetUrl": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1442_1445_1446.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/392/ST-100.jpg",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "505-ADAU1446YSTZ-3A-ND",
+          "PackageType": {
+            "Id": 17,
+            "Name": "Tray"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 19.6,
+              "TotalPrice": 19.6
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 18.012,
+              "TotalPrice": 180.12
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 17.2648,
+              "TotalPrice": 431.62
+            },
+            {
+              "BreakQuantity": 90,
+              "UnitPrice": 15.21178,
+              "TotalPrice": 1369.0602
+            },
+            {
+              "BreakQuantity": 270,
+              "UnitPrice": 14.46522,
+              "TotalPrice": 3905.6094
+            },
+            {
+              "BreakQuantity": 450,
+              "UnitPrice": 13.53198,
+              "TotalPrice": 6089.391
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": true,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 200,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 90,
+          "DigiReelFee": 0.0
+        }
+      ],
+      "QuantityAvailable": 200,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "402716",
+          "ValueText": "Sigma"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "752314",
+          "ValueText": "I2C, SPI"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "111011",
+          "ValueText": "172MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "1",
+          "ValueText": "-"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "223322",
+          "ValueText": "46kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "173383",
+          "ValueText": "3.30V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "59829",
+          "ValueText": "1.80V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "212437",
+          "ValueText": "-40°C ~ 105°C (TA)"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "68818",
+          "ValueText": "100-LQFP"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "68820",
+          "ValueText": "100-LQFP (14x14)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 71673,
+        "Name": "ADAU1446"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "10",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 14090,
+        "Name": "SigmaDSP®"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "EAR99",
+        "HtsusCode": "8542.31.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "32BIT SIGMADSP AUDIO 24K/80K",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 505,
+        "Name": "Analog Devices Inc."
+      },
+      "ManufacturerProductNumber": "ADAU1466WBCPZ300",
+      "UnitPrice": 19.96,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/analog-devices-inc/ADAU1466WBCPZ300/7915233",
+      "DatasheetUrl": "https://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1462-1466.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/1852/505%3BCP-72-6%3BCP%3B72.jpg",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "505-ADAU1466WBCPZ300-ND",
+          "PackageType": {
+            "Id": 17,
+            "Name": "Tray"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 19.96,
+              "TotalPrice": 19.96
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 18.343,
+              "TotalPrice": 183.43
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 17.5824,
+              "TotalPrice": 439.56
+            },
+            {
+              "BreakQuantity": 80,
+              "UnitPrice": 15.49163,
+              "TotalPrice": 1239.3304
+            },
+            {
+              "BreakQuantity": 230,
+              "UnitPrice": 14.73135,
+              "TotalPrice": 3388.2105
+            },
+            {
+              "BreakQuantity": 440,
+              "UnitPrice": 13.78095,
+              "TotalPrice": 6063.618
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 505,
+            "Name": "Analog Devices Inc."
+          },
+          "QuantityAvailableforPackageType": 193,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 1,
+          "DigiReelFee": 0.0
+        }
+      ],
+      "QuantityAvailable": 193,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "402716",
+          "ValueText": "Sigma"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "752314",
+          "ValueText": "I2C, SPI"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "166968",
+          "ValueText": "294.912MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "397494",
+          "ValueText": "ROM (96kB)"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "187343",
+          "ValueText": "320kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "173383",
+          "ValueText": "3.30V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "46248",
+          "ValueText": "1.20V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "212437",
+          "ValueText": "-40°C ~ 105°C (TA)"
+        },
+        {
+          "ParameterId": 1977,
+          "ParameterText": "Grade",
+          "ParameterType": "String",
+          "ValueId": "316912",
+          "ValueText": "Automotive"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "275681",
+          "ValueText": "72-VFQFN Exposed Pad, CSP"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "275538",
+          "ValueText": "72-LFCSP-VQ (10x10)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 116318,
+        "Name": "ADAU1466"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "10",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 14090,
+        "Name": "SigmaDSP®"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "EAR99",
+        "HtsusCode": "8542.39.0001"
+      }
+    },
+    {
+      "Description": {
+        "ProductDescription": "IC DSP FIX/FLOAT POINT 361NFBGA",
+        "DetailedDescription": null
+      },
+      "Manufacturer": {
+        "Id": 296,
+        "Name": "Texas Instruments"
+      },
+      "ManufacturerProductNumber": "TMS320C6748EZWT3",
+      "UnitPrice": 20.06,
+      "ProductUrl": "https://www.digikey.com/en/products/detail/texas-instruments/TMS320C6748EZWT3/5019348",
+      "DatasheetUrl": "https://www.ti.com/lit/ds/sprs590g/sprs590g.pdf",
+      "PhotoUrl": "//mm.digikey.com/Volume0/opasdata/d220001/medias/images/416/361-PBGA-ZWT.jpg",
+      "ProductVariations": [
+        {
+          "DigiKeyProductNumber": "296-42945-ND",
+          "PackageType": {
+            "Id": 17,
+            "Name": "Tray"
+          },
+          "StandardPricing": [
+            {
+              "BreakQuantity": 1,
+              "UnitPrice": 20.06,
+              "TotalPrice": 20.06
+            },
+            {
+              "BreakQuantity": 10,
+              "UnitPrice": 18.44,
+              "TotalPrice": 184.4
+            },
+            {
+              "BreakQuantity": 25,
+              "UnitPrice": 17.676,
+              "TotalPrice": 441.9
+            },
+            {
+              "BreakQuantity": 90,
+              "UnitPrice": 15.574,
+              "TotalPrice": 1401.66
+            },
+            {
+              "BreakQuantity": 270,
+              "UnitPrice": 14.80963,
+              "TotalPrice": 3998.6001
+            },
+            {
+              "BreakQuantity": 450,
+              "UnitPrice": 13.85418,
+              "TotalPrice": 6234.381
+            }
+          ],
+          "MyPricing": [],
+          "MarketPlace": false,
+          "TariffActive": false,
+          "Supplier": {
+            "Id": 296,
+            "Name": "Texas Instruments"
+          },
+          "QuantityAvailableforPackageType": 408,
+          "MaxQuantityForDistribution": 999999999,
+          "MinimumOrderQuantity": 1,
+          "StandardPackage": 90,
+          "DigiReelFee": 0.0
+        }
+      ],
+      "QuantityAvailable": 408,
+      "ProductStatus": {
+        "Id": 0,
+        "Status": "Active"
+      },
+      "BackOrderNotAllowed": false,
+      "NormallyStocking": true,
+      "Discontinued": false,
+      "EndOfLife": false,
+      "Ncnr": false,
+      "PrimaryVideoUrl": null,
+      "Parameters": [
+        {
+          "ParameterId": 183,
+          "ParameterText": "Type",
+          "ParameterType": "String",
+          "ValueId": "347515",
+          "ValueText": "Fixed/Floating Point"
+        },
+        {
+          "ParameterId": 154,
+          "ParameterText": "Interface",
+          "ParameterType": "String",
+          "ValueId": "800230",
+          "ValueText": "EBI/EMI, Ethernet MAC, Host Interface, I2C, McASP, SPI, UART, USB"
+        },
+        {
+          "ParameterId": 696,
+          "ParameterText": "Clock Rate",
+          "ParameterType": "String",
+          "ValueId": "198392",
+          "ValueText": "375MHz"
+        },
+        {
+          "ParameterId": 692,
+          "ParameterText": "Non-Volatile Memory",
+          "ParameterType": "String",
+          "ValueId": "345656",
+          "ValueText": "External"
+        },
+        {
+          "ParameterId": 693,
+          "ParameterText": "On-Chip RAM",
+          "ParameterType": "String",
+          "ValueId": "220174",
+          "ValueText": "448kB"
+        },
+        {
+          "ParameterId": 694,
+          "ParameterText": "Voltage - I/O",
+          "ParameterType": "String",
+          "ValueId": "61474",
+          "ValueText": "1.8V, 3.3V"
+        },
+        {
+          "ParameterId": 695,
+          "ParameterText": "Voltage - Core",
+          "ParameterType": "String",
+          "ValueId": "41177",
+          "ValueText": "1.00V, 1.10V, 1.20V, 1.30V"
+        },
+        {
+          "ParameterId": 252,
+          "ParameterText": "Operating Temperature",
+          "ParameterType": "String",
+          "ValueId": "39017",
+          "ValueText": "0°C ~ 90°C (TJ)"
+        },
+        {
+          "ParameterId": 69,
+          "ParameterText": "Mounting Type",
+          "ParameterType": "String",
+          "ValueId": "409393",
+          "ValueText": "Surface Mount"
+        },
+        {
+          "ParameterId": 16,
+          "ParameterText": "Package / Case",
+          "ParameterType": "String",
+          "ValueId": "195981",
+          "ValueText": "361-LFBGA"
+        },
+        {
+          "ParameterId": 1291,
+          "ParameterText": "Supplier Device Package",
+          "ParameterType": "String",
+          "ValueId": "195990",
+          "ValueText": "361-NFBGA (16x16)"
+        }
+      ],
+      "BaseProductNumber": {
+        "Id": 28596,
+        "Name": "TMS320"
+      },
+      "Category": {
+        "CategoryId": 32,
+        "ParentId": 0,
+        "Name": "Integrated Circuits (ICs)",
+        "ProductCount": 0,
+        "NewProductCount": 0,
+        "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/153/598/8-SOIC,M8_tmb.jpg",
+        "SeoDescription": "Integrated circuits combine a large number of transistors and other elementary electronic components in miniaturized form into a single physical device, that is designed for a specific purpose or function and characterized by its performance of that function rather than by the behavior of its component pieces. Examples include microcontrollers, battery monitors and charge controllers, analog to digital converters, operational amplifiers, logic gates, voltage regulators, gate drivers, motro controllers, and others.",
+        "ChildCategories": [
+          {
+            "CategoryId": 2012,
+            "ParentId": 32,
+            "Name": "Embedded",
+            "ProductCount": 0,
+            "NewProductCount": 0,
+            "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/100/433/524/MFG_MK21DX128VLK5_tmb.jpg",
+            "SeoDescription": "Embedded systems perform a specific task via software within various applications. Included in this category are programmable logic devices (PLDs), complex programmable logic devices (CPLDs), digital signal processors (DSPs), field programmable gate arrays (FPGAs), microcontollers or microprocessors, system-on-chip (SoC), and more.",
+            "ChildCategories": [
+              {
+                "CategoryId": 698,
+                "ParentId": 2012,
+                "Name": "DSP (Digital Signal Processors)",
+                "ProductCount": 0,
+                "NewProductCount": 0,
+                "ImageUrl": "//mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg",
+                "SeoDescription": "Digital signal processors are devices similar to microprocessors or microcontrollers, but distinguished by having internal architectures that are adapted for continuous execution of algorithms dominated by multiplication and addition operations performed on a continuous stream of data, as contrasted with algorithms that are dominated by conditional logic or a multiplicity of concurrent processes. They are commonly used in applications such as audio or video signal processing.",
+                "ChildCategories": []
+              }
+            ]
+          }
+        ]
+      },
+      "DateLastBuyChance": null,
+      "ManufacturerLeadWeeks": "6",
+      "ManufacturerPublicQuantity": 0,
+      "Series": {
+        "Id": 11309,
+        "Name": "TMS320C674x"
+      },
+      "ShippingInfo": null,
+      "Classifications": {
+        "ReachStatus": "REACH Unaffected",
+        "RohsStatus": "ROHS3 Compliant",
+        "MoistureSensitivityLevel": "3  (168 Hours)",
+        "ExportControlClassNumber": "3A991A2",
+        "HtsusCode": "8542.31.0001"
+      }
+    }
+  ],
+  "ProductsCount": 3742,
+  "ExactMatches": [],
+  "FilterOptions": {
+    "Manufacturers": [
+      {
+        "Id": 4991,
+        "Value": "ams-OSRAM USA INC.",
+        "ProductCount": 2
+      },
+      {
+        "Id": 505,
+        "Value": "Analog Devices Inc.",
+        "ProductCount": 938
+      },
+      {
+        "Id": 175,
+        "Value": "Analog Devices Inc./Maxim Integrated",
+        "ProductCount": 8
+      },
+      {
+        "Id": 974,
+        "Value": "Asahi Kasei Microdevices/AKM",
+        "ProductCount": 5
+      },
+      {
+        "Id": 516,
+        "Value": "Broadcom Limited",
+        "ProductCount": 3
+      },
+      {
+        "Id": 598,
+        "Value": "Cirrus Logic Inc.",
+        "ProductCount": 94
+      },
+      {
+        "Id": 600055,
+        "Value": "Freescale Semiconductor",
+        "ProductCount": 43
+      },
+      {
+        "Id": 375,
+        "Value": "Freescale Semiconductor - NXP",
+        "ProductCount": 5
+      },
+      {
+        "Id": 600026,
+        "Value": "Harris Corporation",
+        "ProductCount": 2
+      },
+      {
+        "Id": 448,
+        "Value": "Infineon Technologies",
+        "ProductCount": 1
+      },
+      {
+        "Id": 544,
+        "Value": "Intel",
+        "ProductCount": 4
+      },
+      {
+        "Id": 423,
+        "Value": "Knowles",
+        "ProductCount": 4
+      },
+      {
+        "Id": 600011,
+        "Value": "Lantiq",
+        "ProductCount": 1
+      },
+      {
+        "Id": 150,
+        "Value": "Microchip Technology",
+        "ProductCount": 37
+      },
+      {
+        "Id": 600066,
+        "Value": "Motorola",
+        "ProductCount": 12
+      },
+      {
+        "Id": 14,
+        "Value": "National Semiconductor",
+        "ProductCount": 1
+      },
+      {
+        "Id": 954,
+        "Value": "NXP Semiconductors",
+        "ProductCount": 2
+      },
+      {
+        "Id": 568,
+        "Value": "NXP USA Inc.",
+        "ProductCount": 651
+      },
+      {
+        "Id": 488,
+        "Value": "onsemi",
+        "ProductCount": 36
+      },
+      {
+        "Id": 20,
+        "Value": "Renesas Electronics Corporation",
+        "ProductCount": 18
+      },
+      {
+        "Id": 2156,
+        "Value": "Rochester Electronics, LLC",
+        "ProductCount": 3
+      },
+      {
+        "Id": 846,
+        "Value": "Rohm Semiconductor",
+        "ProductCount": 6
+      },
+      {
+        "Id": 600057,
+        "Value": "Sanyo",
+        "ProductCount": 8
+      },
+      {
+        "Id": 600,
+        "Value": "Semtech Corporation",
+        "ProductCount": 2
+      },
+      {
+        "Id": 863,
+        "Value": "Skyworks Solutions Inc.",
+        "ProductCount": 4
+      },
+      {
+        "Id": 497,
+        "Value": "STMicroelectronics",
+        "ProductCount": 7
+      },
+      {
+        "Id": 296,
+        "Value": "Texas Instruments",
+        "ProductCount": 1826
+      },
+      {
+        "Id": 4455,
+        "Value": "Waytronic",
+        "ProductCount": 1
+      },
+      {
+        "Id": 880,
+        "Value": "XMOS",
+        "ProductCount": 8
+      },
+      {
+        "Id": 269,
+        "Value": "Zilog",
+        "ProductCount": 10
+      }
+    ],
+    "Packaging": null,
+    "Status": null,
+    "Series": null,
+    "ParametricFilters": null,
+    "TopCategories": [
+      {
+        "RootCategory": {
+          "Id": 2012,
+          "Name": "Embedded",
+          "ProductCount": 0
+        },
+        "Category": {
+          "Id": 698,
+          "Name": "DSP (Digital Signal Processors)",
+          "ProductCount": 3674
+        },
+        "Score": 0.0,
+        "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/349/325/841-BFBGA, FCBGA Series_tmb.jpg"
+      },
+      {
+        "RootCategory": {
+          "Id": 32,
+          "Name": "Integrated Circuits (ICs)",
+          "ProductCount": 0
+        },
+        "Category": {
+          "Id": 741,
+          "Name": "Audio Special Purpose",
+          "ProductCount": 39
+        },
+        "Score": 0.0,
+        "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/702/796/296~4040064-3~PW~14_tmb.jpg"
+      },
+      {
+        "RootCategory": {
+          "Id": 37,
+          "Name": "RF and Wireless",
+          "ProductCount": 0
+        },
+        "Category": {
+          "Id": 863,
+          "Name": "RF Misc ICs and Modules",
+          "ProductCount": 10
+        },
+        "Score": 0.0,
+        "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/200/497/407/MFG_A111_View-2_tmb.jpg"
+      },
+      {
+        "RootCategory": {
+          "Id": 2016,
+          "Name": "Interface",
+          "ProductCount": 0
+        },
+        "Category": {
+          "Id": 752,
+          "Name": "Sensor and Detector Interfaces",
+          "ProductCount": 6
+        },
+        "Score": 0.0,
+        "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/300/353/150/10-TFSOP, 10-MSOP. Exposed Pad_tmb.jpg"
+      },
+      {
+        "RootCategory": {
+          "Id": 32,
+          "Name": "Integrated Circuits (ICs)",
+          "ProductCount": 0
+        },
+        "Category": {
+          "Id": 686,
+          "Name": "Specialized ICs",
+          "ProductCount": 6
+        },
+        "Score": 0.0,
+        "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/002/798/028/MFG_NTE1561_tmb.jpg"
+      },
+      {
+        "RootCategory": {
+          "Id": 2012,
+          "Name": "Embedded",
+          "ProductCount": 0
+        },
+        "Category": {
+          "Id": 685,
+          "Name": "Microcontrollers",
+          "ProductCount": 6
+        },
+        "Score": 0.0,
+        "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/116/683/28-PDip_tmb.jpg"
+      },
+      {
+        "RootCategory": {
+          "Id": 2012,
+          "Name": "Embedded",
+          "ProductCount": 0
+        },
+        "Category": {
+          "Id": 694,
+          "Name": "Microprocessors",
+          "ProductCount": 1
+        },
+        "Score": 0.0,
+        "ImageUrl": "https://mm.digikey.com/Volume0/opasdata/d220001/derivates/3/010/965/MFG_MIMX8MMXXVTXZAA_tmb.jpg"
+      }
+    ],
+    "MarketPlaceFilters": ["ExcludeMarketPlace", "MarketPlaceOnly"]
+  },
+  "SearchLocaleUsed": {
+    "Site": "us",
+    "Language": "en",
+    "Currency": "USD"
+  },
+  "AppliedParametricFiltersDto": [
+    {
+      "Id": -102,
+      "Text": "Quantity Available",
+      "Priority": 0
+    }
+  ]
+}
