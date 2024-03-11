@@ -4,7 +4,7 @@ const jsonToCsv = require("./convert-csv.js")
 
 // Replace 'YOUR_URL_HERE' with the actual URL you want to scrape
 let urlToScrape =
-  "https://www.digikey.com/en/products/filter/temperature-sensors/ntc-thermistors/508"
+  "https://www.digikey.com/en/products/filter/embedded/dsp-digital-signal-processors/698"
 
 const removeLastSlashContentFromUrl = urlToScrape.substring(
   0,
@@ -23,17 +23,12 @@ console.log("removeLastSlashContentFromUrl", removeLastSlashContentFromUrl)
 console.log("getNewLastSlashContentFromUrl", getNewLastSlashContentFromUrl)
 console.log("extractedKeywords", extractedKeywords)
 
-// const urlToScrape =
-//   "https://www.digikey.com/en/products/filter/controllers-accessories/816"
-
-// const keywords = "Controller Accessories"
-
 async function getProductDetails() {
   // Call the function with the specified URL
-  const resaultCount = await scrapeElement(urlToScrape)
+  const resultCount = await scrapeElement(urlToScrape)
 
-  if (resaultCount) {
-    await fetchAllProducts(extractedKeywords, resaultCount)
+  if (resultCount) {
+    await fetchAllProducts(extractedKeywords, resultCount)
     await jsonToCsv()
   }
 }
