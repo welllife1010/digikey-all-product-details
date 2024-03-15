@@ -3,7 +3,7 @@ const jsonexport = require("jsonexport")
 
 async function jsonToCsv() {
   // Read the JSON file
-  fs.readFile("products-test.json", "utf-8", (err, data) => {
+  fs.readFile("products-work-version.json", "utf-8", (err, data) => {
     if (err) {
       console.error("Error reading the JSON file:", err)
       return
@@ -24,7 +24,7 @@ async function jsonToCsv() {
       }
 
       // Write the CSV data to a file
-      fs.writeFile("products-test.csv", csv, (err) => {
+      fs.writeFile("products-work-version.csv", csv, (err) => {
         if (err) {
           console.error("Error writing the CSV file:", err)
           return

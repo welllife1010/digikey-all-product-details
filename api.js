@@ -60,7 +60,10 @@ async function fetchAllProducts(keywords, resultCount) {
   }
 
   // Write the results to a JSON file
-  await fs.writeFile("products-test.json", JSON.stringify(allProducts, null, 2))
+  await fs.writeFile(
+    "products-work-version.json",
+    JSON.stringify(allProducts, null, 2)
+  )
   console.log(allProducts.length)
   console.log("All products have been saved to products.json")
 }

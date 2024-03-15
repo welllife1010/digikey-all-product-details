@@ -1,36 +1,26 @@
-const scrapeElement = require("./scrape.js")
+const scrapeElementTest = require("./scrape-test.js")
 const fetchAllProducts = require("./api.js")
 const jsonToCsv = require("./convert-csv.js")
 
-// Replace 'YOUR_URL_HERE' with the actual URL you want to scrape
-let urlToScrape =
-  "https://www.digikey.com/en/products/filter/embedded/dsp-digital-signal-processors/698"
+const urlToScrape = "https://www.digikey.com/en/products"
+const searchTerm = "Digital Signal Processors"
 
-const removeLastSlashContentFromUrl = urlToScrape.substring(
-  0,
-  urlToScrape.lastIndexOf("/")
-)
-const getNewLastSlashContentFromUrl = removeLastSlashContentFromUrl.substring(
-  removeLastSlashContentFromUrl.lastIndexOf("/") + 1
-)
+async function getProductDetails(urlToScrape, searchTerm) {
+  try {
+    console.log(searchTerm)
 
-const extractedKeywords = getNewLastSlashContentFromUrl.replace(
-  /[^A-Za-z0-9]/g,
-  " "
-)
+    const resultCount = await scrapeElementTest(urlToScrape, searchTerm)
 
-console.log("removeLastSlashContentFromUrl", removeLastSlashContentFromUrl)
-console.log("getNewLastSlashContentFromUrl", getNewLastSlashContentFromUrl)
-console.log("extractedKeywords", extractedKeywords)
-
-async function getProductDetails() {
-  // Call the function with the specified URL
-  const resultCount = await scrapeElement(urlToScrape)
-
-  if (resultCount) {
-    await fetchAllProducts(extractedKeywords, resultCount)
-    await jsonToCsv()
+    console.log(resultCount)
+    if (resultCount) {
+      await fetchAllProducts(searchTerm, resultCount)
+      await jsonToCsv()
+    } else {
+      console.log("Something's wrong")
+    }
+  } catch (err) {
+    return console.log(err.message)
   }
 }
 
-getProductDetails()
+getProductDetails(urlToScrape, searchTerm)
