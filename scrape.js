@@ -1,29 +1,18 @@
-//const puppeteer = require("puppeteer")
-const UserAgent = require("user-agents")
 const puppeteerExtra = require("puppeteer-extra")
 const StealthPlugin = require("puppeteer-extra-plugin-stealth")
 const anonymizeUaPlugin = require("puppeteer-extra-plugin-anonymize-ua")
 
 puppeteerExtra.use(StealthPlugin())
-
-// Use the Anonymize UA plugin
 puppeteerExtra.use(anonymizeUaPlugin())
 
 const browserOptions = { headless: false }
 const pageOptions = { waitUntil: "networkidle2", timeout: 60000 }
-
-// Function to generate a random user agent
-// function getRandomUserAgent() {
-//   const userAgent = new UserAgent({ deviceCategory: "desktop" })
-//   return userAgent.toString()
-// }
 
 // Function to scrape the element with data-testid attribute
 async function scrapeElement(url) {
   // Launch a new browser instance
   const browser = await puppeteerExtra.launch({
     ...browserOptions,
-    //args: [`--user-agent=${getRandomUserAgent()}`],
   })
 
   // Create a new page
@@ -36,12 +25,10 @@ async function scrapeElement(url) {
   await page.goto(url, pageOptions)
 
   try {
-    console.log("Before waiting for selector")
     await page.waitForSelector('[data-testid="per-page-selector-container"]', {
       visible: true,
       timeout: 30000,
     })
-    console.log("After waiting for selector")
 
     const elementContent = await page.$eval(
       '[data-testid="per-page-selector-container"]',

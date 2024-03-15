@@ -1,17 +1,15 @@
 const scrapeElementTest = require("./scrape-test.js")
 const fetchAllProducts = require("./api.js")
 const jsonToCsv = require("./convert-csv.js")
+require("dotenv").config()
 
-const urlToScrape = "https://www.digikey.com/en/products"
+const urlToScrape = process.env.SEARCH_URL
 const searchTerm = "Digital Signal Processors"
 
 async function getProductDetails(urlToScrape, searchTerm) {
   try {
-    console.log(searchTerm)
-
     const resultCount = await scrapeElementTest(urlToScrape, searchTerm)
 
-    console.log(resultCount)
     if (resultCount) {
       await fetchAllProducts(searchTerm, resultCount)
       await jsonToCsv()

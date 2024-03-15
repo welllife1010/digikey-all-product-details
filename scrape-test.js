@@ -1,29 +1,18 @@
-//const puppeteer = require("puppeteer")
-const UserAgent = require("user-agents")
 const puppeteerExtra = require("puppeteer-extra")
 const StealthPlugin = require("puppeteer-extra-plugin-stealth")
 const anonymizeUaPlugin = require("puppeteer-extra-plugin-anonymize-ua")
 
 puppeteerExtra.use(StealthPlugin())
-
-// Use the Anonymize UA plugin
 puppeteerExtra.use(anonymizeUaPlugin())
 
 const browserOptions = { headless: false }
 const pageOptions = { waitUntil: "networkidle2", timeout: 60000 }
-
-// Function to generate a random user agent
-// function getRandomUserAgent() {
-//   const userAgent = new UserAgent({ deviceCategory: "desktop" })
-//   return userAgent.toString()
-// }
 
 // Function to scrape the element with data-testid attribute
 async function scrapeElementTest(url, term) {
   // Launch a new browser instance
   const browser = await puppeteerExtra.launch({
     ...browserOptions,
-    //args: [`--user-agent=${getRandomUserAgent()}`],
   })
 
   // Create a new page
@@ -142,9 +131,5 @@ async function scrapeElementTest(url, term) {
     await browser.close()
   }
 }
-
-// Replace 'YOUR_URL_HERE' with the actual URL you want to scrape
-// const urlToScrape = "https://www.digikey.com/en/products"
-// const searchTerm = "DSP (Digital Signal Processors)"
 
 module.exports = scrapeElementTest
