@@ -1,0 +1,7 @@
+.env
+node_modules
+generated-files
+old-codes
+offset*.txt
+manufacturer_log.txt
+api_v2_05012024
