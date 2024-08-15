@@ -22,7 +22,7 @@ async function ensureDirectoryExists(directoryPath) {
   try {
     await fs.mkdir(directoryPath, { recursive: true })
   } catch (error) {
-    if (error.code !== "EEXIST") {
+    if (error.code !== "EXIST") {
       throw error
     }
   }
